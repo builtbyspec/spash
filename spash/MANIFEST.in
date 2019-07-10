@@ -1,0 +1,5 @@
+include spash/spash.min.js
+include spash/spash.dev.js
+include spash/metadata.json
+include spash/package.json
+include README.md
